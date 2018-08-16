@@ -19,7 +19,7 @@ Example [here](https://xaberr.github.io/bootstrap-button-sidebar/).
         <i class="fab fa-angular fa-2x"></i>
       </a>
     </li>
-    <li class="nav-item">
+    <li class="nav-item popright">
       <a class="nav-link" href="#">
         <i class="fab fa-angular fa-2x"></i>
       </a>
