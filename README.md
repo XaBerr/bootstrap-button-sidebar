@@ -3,7 +3,7 @@ This project require bootstrap 4 and fontawesome.
 
 Example [here](https://xaberr.github.io/bootstrap-button-sidebar/).
 
-![demo](https://user-images.githubusercontent.com/16030020/44220836-09f90280-a180-11e8-83f3-85dd9e03b920.gif)
+![demo](https://user-images.githubusercontent.com/16030020/44221731-9e646480-a182-11e8-851f-de9812b2b961.gif)
 
 ## Usage
 
@@ -15,7 +15,7 @@ Example [here](https://xaberr.github.io/bootstrap-button-sidebar/).
 <nav class="navbar">
   <ul class="navbar-nav">
     <li class="nav-item active">
-      <a class="nav-link spin circle" href="#">
+      <a class="nav-link" href="#">
         <i class="fab fa-angular fa-2x"></i>
       </a>
     </li>
