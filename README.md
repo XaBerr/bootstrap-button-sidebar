@@ -35,6 +35,6 @@ Example [here](https://xaberr.github.io/bootstrap-button-sidebar/).
 
 ## Other
 
-- Add `popright-nav` class to `nav` to achieve the popup bar effect.
-- Add `popright` class to `li` to achieve the popup button effect.
+- Add `popright-nav` class to `nav` to achieve the popright bar effect.
+- Add `popright` class to `li` to achieve the popright button effect.
 - Add `active` class to `li` to achieve the active button effect.
